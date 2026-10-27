@@ -49,26 +49,34 @@
 }
 
 .teaching-table {
-  display: table;
-  width: 100%;
-  margin-top: 0;
-  border-collapse: collapse;
+  display: table !important;
+  width: auto !important;
+  margin: 0 0 1em 0 !important;
+  font-size: 1em !important;
+  font-family: inherit !important;
+  border: none !important;
+  border-collapse: collapse !important;
 }
 
 .teaching-table thead {
   display: none;
 }
 
+.teaching-table tbody,
+.teaching-table tr,
 .teaching-table td {
-  padding: 0.2rem 0 !important;
   border: none !important;
   background: transparent !important;
+}
+
+.teaching-table td {
+  padding: 0.15rem 0 !important;
   text-align: left;
   vertical-align: top;
 }
 
 .teaching-table td:first-child {
-  width: 8.5rem;
+  width: 11.5rem;
   padding-right: 1.5rem !important;
   white-space: nowrap;
 }
