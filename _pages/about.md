@@ -131,7 +131,7 @@ redirect_from:
    &emsp;&thinsp;&thinsp;[Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf)  
    &emsp;&thinsp;&thinsp;Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
 
-   [8] V. A. Kolotilov, Alexander Kurganov<sup>*</sup>, Vladimir V. Ostapenko, N. A. Khandeeva and **Shaoshuai Chu**  
+   [8] Vadim A. Kolotilov, Alexander Kurganov<sup>*</sup>, Vladimir V. Ostapenko, Nadezhda A. Khandeeva and **Shaoshuai Chu**  
    &emsp;&thinsp;&thinsp;[On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Kolotilov-Kurganov-Ostapenko-Khandeeva-Chu.pdf)  
    &emsp;&thinsp;&thinsp;Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
 
