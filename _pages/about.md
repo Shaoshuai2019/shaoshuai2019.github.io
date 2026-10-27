@@ -159,7 +159,7 @@ redirect_from:
    &emsp;&thinsp;&thinsp;[Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf)  
    &emsp;&thinsp;&thinsp;Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
 
-   [1] A. Chertock, **S. Chu**<sup>*</sup> and A. Kurganov  
+   [1] Alina Chertock, **Shaoshuai Chu**<sup>*</sup> and Alexandedr Kurganov  
    &emsp;&thinsp;&thinsp;[Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf)  
    &emsp;&thinsp;&thinsp;Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
 
