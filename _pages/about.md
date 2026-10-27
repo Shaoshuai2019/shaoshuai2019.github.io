@@ -279,7 +279,7 @@ redirect_from:
 
 --->
 
-## <font face="Times New Roman">Academic Education</font> 
+## <font face="Times New Roman">Education</font> 
 
 
 2019---2023&emsp;&ensp;PhD in Computational Mathematics,             
