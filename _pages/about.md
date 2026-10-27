@@ -42,12 +42,12 @@ redirect_from:
    [2] **Shaoshuai Chu**, Alexander Kurganov, Mingye Na<sup>*</sup>, Baoshan Wang and Ruixiao Xin  
    &emsp;&thinsp;&thinsp;[Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf) <!--  to Applied Numerical Mathematics. ---> 
 
-   [1] **Shaoshuai Chu**, Alexander Kurganov, Maria Lukáčová-Medviďová and Mingye Na<sup>*</sup>  
+   [1] **Shaoshuai Chu**, Alexander Kurganov, Mária Lukáčová-Medviďová and Mingye Na<sup>*</sup>  
    &emsp;&thinsp;&thinsp;[A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf) <!--  to Numerical Methods for Partial Differential Equations.---> 
 
 ## <font face="Times New Roman">Publications (in Reverse Chronological Order)</font> 
 
-   [29] **Shaoshuai Chu**, Michael Herty, Alexander Kurganov, Maria Lukáčová-Medviďová<sup>*</sup> and Changsheng Yu  
+   [29] **Shaoshuai Chu**, Michael Herty, Alexander Kurganov, Mária Lukáčová-Medviďová<sup>*</sup> and Changsheng Yu  
    &emsp;&ensp;&thinsp;&thinsp;[Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;To appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
@@ -63,7 +63,7 @@ redirect_from:
    &emsp;&ensp;&thinsp;&thinsp;[A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws](./files/Chu_Herty_LD.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Numerical Methods for Partial Differential Equations, 42 (2026), Paper No. e70140, 41 pp.
 
-   [25] **Shaoshuai Chu**, Michael Herty<sup>*</sup>, Maria Lukáčová-Medviďová and Yizou Zhou  
+   [25] **Shaoshuai Chu**, Michael Herty<sup>*</sup>, Mária Lukáčová-Medviďová and Yizhou Zhou  
    &emsp;&ensp;&thinsp;&thinsp;[Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;SIAM Journal on Scientific Computing, 48 (2026), pp. A1184-A1205. 
 
@@ -75,7 +75,7 @@ redirect_from:
    &emsp;&ensp;&thinsp;&thinsp;[Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Communications in Computational Physics, (2026).
 
-   [22] Amelie Porfetye, Zhuyan Tang<sup>*</sup>, **Shaoshuai Chu**, Christiane Helzel and Maria Lukáčová-Medviďová  
+   [22] Amelie Porfetye, Zhuyan Tang<sup>*</sup>, **Shaoshuai Chu**, Christiane Helzel and Mária Lukáčová-Medviďová  
    &emsp;&ensp;&thinsp;&thinsp;[New Fully Discrete Active Flux Methods with Truly Multi-Dimensional Evolution Operators and WENO Reconstruction](./files/Porfetye_Tang_Chu_Helzel_Lukacova.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Journal of Scientific Computing, 109 (2026), Paper No. 33, 32 pp.
    
@@ -151,7 +151,7 @@ redirect_from:
    &emsp;&thinsp;&thinsp;[Flux Globalization Based Well-Balanced Central-Upwind Scheme for One-Dimensional Blood Flow Models](./files/Chu-Kurganov.pdf)  
    &emsp;&thinsp;&thinsp;Calcolo, 60 (2023), Paper No. 2, 35 pp.
 
-   [3] Alina Chertock, **Shaoshuai Chu**<sup>*</sup>, Michael Herty, Alexander Kurganov and Maria Lukáčová-Medviďová  
+   [3] Alina Chertock, **Shaoshuai Chu**<sup>*</sup>, Michael Herty, Alexander Kurganov and Mária Lukáčová-Medviďová  
    &emsp;&thinsp;&thinsp;[Local Characteristic Decomposition Based Central-Upwind Scheme](./files/Chertock-Chu-Herty-Kurganov-Lukacova.pdf)  
    &emsp;&thinsp;&thinsp;Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
 
@@ -159,7 +159,7 @@ redirect_from:
    &emsp;&thinsp;&thinsp;[Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf)  
    &emsp;&thinsp;&thinsp;Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
 
-   [1] Alina Chertock, **Shaoshuai Chu**<sup>*</sup> and Alexandedr Kurganov  
+   [1] Alina Chertock, **Shaoshuai Chu**<sup>*</sup> and Alexander Kurganov  
    &emsp;&thinsp;&thinsp;[Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf)  
    &emsp;&thinsp;&thinsp;Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
 
