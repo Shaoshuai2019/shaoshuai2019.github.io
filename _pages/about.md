@@ -25,25 +25,25 @@ redirect_from:
 ## <font face="Times New Roman">Recent Preprints</font> 
 
    [7] **Shaoshuai Chu**<sup>*</sup> and Michael Herty  
-   &emsp;&thinsp;[Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf) <!--  to SIAM Journal on Scientific Computing.---> 
+   &emsp;&thinsp;&thinsp;[Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf) <!--  to SIAM Journal on Scientific Computing.---> 
    
    [6] **Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
-   &emsp;&thinsp;[Entropy-Based Local Characteristic Decomposition](./files/Chu_Herty_Kurganov_LCD.pdf) <!--  to Journal of Scientific Computing.---> 
+   &emsp;&thinsp;&thinsp;[Entropy-Based Local Characteristic Decomposition](./files/Chu_Herty_Kurganov_LCD.pdf) <!--  to Journal of Scientific Computing.---> 
 
    [5] **Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
-   &emsp;&thinsp;[New Scheme Adaption Strategy for Hyperbolic Conservation Laws](./files/Chu-Herty-Kurganov-Adaptive.pdf) <!--  to Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2025.---> 
+   &emsp;&thinsp;&thinsp;[New Scheme Adaption Strategy for Hyperbolic Conservation Laws](./files/Chu-Herty-Kurganov-Adaptive.pdf) <!--  to Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2025.---> 
 
    [4] **Shaoshuai Chu**, P. Feng, V. A. Kolotilov, Alexander Kurganov<sup>*</sup> and V. V. Ostapenko  
-   &emsp;&thinsp;[Novel Adaptive Methods for Hyperbolic Conservation Laws Based on New Quasi-Linear Seventh- and Ninth-Order Schemes](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko-New.pdf) <!--  to Communications in Computational Physics.---> 
+   &emsp;&thinsp;&thinsp;[Novel Adaptive Methods for Hyperbolic Conservation Laws Based on New Quasi-Linear Seventh- and Ninth-Order Schemes](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko-New.pdf) <!--  to Communications in Computational Physics.---> 
 
    [3] **Shaoshuai Chu**, I. Kliakhandler and Alexander Kurganov<sup>*</sup>  
-   &emsp;&thinsp;[Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf) <!--  to Journal of Computational Physics.---> 
+   &emsp;&thinsp;&thinsp;[Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf) <!--  to Journal of Computational Physics.---> 
 
    [2] **Shaoshuai Chu**, Alexander Kurganov, M. Na<sup>*</sup>, B.-S. Wang and R. Xin  
-   &emsp;&thinsp;[Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf) <!--  to Applied Numerical Mathematics. ---> 
+   &emsp;&thinsp;&thinsp;[Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf) <!--  to Applied Numerical Mathematics. ---> 
 
    [1] **Shaoshuai Chu**, Alexander Kurganov, M. Lukáčová-Medviďová and M. Na<sup>*</sup>  
-   &emsp;&thinsp;[A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf) <!--  to Numerical Methods for Partial Differential Equations.---> 
+   &emsp;&thinsp;&thinsp;[A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf) <!--  to Numerical Methods for Partial Differential Equations.---> 
 
 ## <font face="Times New Roman">Publications (in Reverse Chronological Order)</font> 
 
