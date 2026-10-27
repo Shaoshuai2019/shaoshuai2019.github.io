@@ -125,7 +125,7 @@ redirect_from:
    Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
 
    [1] A. Chertock, **S. Chu**<sup>*</sup> and A. Kurganov, [Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf)  
-   Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
+   &emsp;Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
 
 
 
