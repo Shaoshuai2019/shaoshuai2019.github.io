@@ -16,8 +16,7 @@ redirect_from:
 
 ## <font face="Times New Roman">Academic Experience</font> 
 
-2024.06---Present&emsp;&ensp;&ensp;Postdoc, [Department of Mathematics](https://www.mathematik.rwth-aachen.de/go/id/mxy/?lidx=1),   
-&thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1/), Aachen, Germany
+2024.06---Present&emsp;&ensp;&ensp;Postdoc, [Department of Mathematics](https://www.mathematik.rwth-aachen.de/go/id/mxy/?lidx=1),[RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1/), Aachen, Germany
 
 2023.08---2024.05&thinsp;&emsp;&ensp;Research Scholar, [Department of Mathematics](https://math.sustech.edu.cn/?lang=en),   
 &thinsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;[Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us),   
