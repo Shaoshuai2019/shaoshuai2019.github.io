@@ -277,6 +277,23 @@ redirect_from:
    2018 Spring  &emsp;&emsp;Calculus II  
    2017 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
 
+
+   | Semester | Course |
+   |:---------|:-------|
+   | 2023 Spring | ODE |
+   | 2022 Fall | Linear Algebra & Scientific Computing |
+   | 2022 Spring | ODE & Numerical Solutions to PDEs |
+   | 2021 Fall | Calculus I |
+   | 2021 Spring | Calculus II |
+   | 2020 Fall | Linear Algebra |
+   | 2020 Spring | Calculus II |
+   | 2019 Fall | Calculus I |
+   | 2019 Spring | Calculus II |
+   | 2018 Fall | Calculus I |
+   | 2018 Spring | Calculus II |
+   | 2017 Fall | Calculus I |
+   {: .teaching-table}
+
 ## <font size="5">Awards</font>
 
    2023.06 &emsp;&ensp; Top 10 Outstanding Postgraduate Graduates, SUSTech, Shenzhen, China 
