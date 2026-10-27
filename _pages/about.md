@@ -124,40 +124,40 @@ redirect_from:
    &emsp;&thinsp;Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
 
    [10] **S. Chu**, A. Kurganov<sup>*</sup> and R. Xin  
-   &emsp;&thinsp;[A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf)  
-   &emsp;&thinsp;Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
+   &emsp;&thinsp;&thinsp;[A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf)  
+   &emsp;&thinsp;&thinsp;Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
 
    [9] **S. Chu**, O. A. Kovyrkina,  A. Kurganov<sup>*</sup> and  V. V. Ostapenko  
-   &emsp;&thinsp;[Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf)  
-   &emsp;&thinsp;Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
+   &emsp;&thinsp;&thinsp;[Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf)  
+   &emsp;&thinsp;&thinsp;Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
 
    [8] V. A. Kolotilov, A. Kurganov<sup>*</sup>, V. V. Ostapenko, N. A. Khandeeva and **S. Chu**  
-   &emsp;&thinsp;[On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Kolotilov-Kurganov-Ostapenko-Khandeeva-Chu.pdf)  
-   &emsp;&thinsp;Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
+   &emsp;&thinsp;&thinsp;[On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Kolotilov-Kurganov-Ostapenko-Khandeeva-Chu.pdf)  
+   &emsp;&thinsp;&thinsp;Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
 
    [7] A. Chertock, **S. Chu** and A. Kurganov<sup>*</sup>  
-   &emsp;&thinsp;[Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator](./files/Chertock-Chu-Kurganov_AWENO.pdf)  
-   &emsp;&thinsp;East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
+   &emsp;&thinsp;&thinsp;[Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator](./files/Chertock-Chu-Kurganov_AWENO.pdf)  
+   &emsp;&thinsp;&thinsp;East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
 
    [6] **S. Chu** and A. Kurganov<sup>*</sup>  
-   &emsp;&thinsp;[Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf)  
-   &emsp;&thinsp;Finite Volumes for Complex Applications X–Volume 2, Hyperbolic and Related Problems, Springer Proc. Math. Stat., Vol. 433 (2023), pp. 73–81, Springer, Cham.
+   &emsp;&thinsp;&thinsp;[Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf)  
+   &emsp;&thinsp;&thinsp;Finite Volumes for Complex Applications X–Volume 2, Hyperbolic and Related Problems, Springer Proc. Math. Stat., Vol. 433 (2023), pp. 73–81, Springer, Cham.
 
    [5] **S. Chu**, A. Kurganov<sup>*</sup>, S. Mohammadian and Z. D.  Zheng  
-   &emsp;&thinsp;[Fifth-Order A-WENO Path-Conservative Central-Upwind Scheme for Behavioral Non-Equilibrium Traffic Models](./files/Chu-Kurganov-Mohammadian-Zheng.pdf)  
-   &emsp;&thinsp;Communications in Computational Physics, 33 (2023), pp. 692-732.
+   &emsp;&thinsp;&thinsp;[Fifth-Order A-WENO Path-Conservative Central-Upwind Scheme for Behavioral Non-Equilibrium Traffic Models](./files/Chu-Kurganov-Mohammadian-Zheng.pdf)  
+   &emsp;&thinsp;&thinsp;Communications in Computational Physics, 33 (2023), pp. 692-732.
 
    [4] **S. Chu** and A. Kurganov<sup>*</sup>  
-   &emsp;&thinsp;[Flux Globalization Based Well-Balanced Central-Upwind Scheme for One-Dimensional Blood Flow Models](./files/Chu-Kurganov.pdf)  
-   &emsp;&thinsp;Calcolo, 60 (2023), Paper No. 2, 35 pp.
+   &emsp;&thinsp;&thinsp;[Flux Globalization Based Well-Balanced Central-Upwind Scheme for One-Dimensional Blood Flow Models](./files/Chu-Kurganov.pdf)  
+   &emsp;&thinsp;&thinsp;Calcolo, 60 (2023), Paper No. 2, 35 pp.
 
    [3] A. Chertock, **S. Chu**<sup>*</sup>, M. Herty, A. Kurganov and M. Lukáčová-Medviďová  
-   &emsp;&thinsp;[Local Characteristic Decomposition Based Central-Upwind Scheme](./files/Chertock-Chu-Herty-Kurganov-Lukacova.pdf)  
-   &emsp;&thinsp;Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
+   &emsp;&thinsp;&thinsp;[Local Characteristic Decomposition Based Central-Upwind Scheme](./files/Chertock-Chu-Herty-Kurganov-Lukacova.pdf)  
+   &emsp;&thinsp;&thinsp;Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
 
    [2] **S. Chu**, A. Kurganov and M. Na<sup>*</sup>  
-   &emsp;&thinsp;[Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf)  
-   &emsp;&thinsp;Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
+   &emsp;&thinsp;&thinsp;[Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf)  
+   &emsp;&thinsp;&thinsp;Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
 
    [1] A. Chertock, **S. Chu**<sup>*</sup> and A. Kurganov  
    &emsp;&thinsp;&thinsp;[Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf)  
