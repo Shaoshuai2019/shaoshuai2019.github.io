@@ -44,7 +44,7 @@ redirect_from:
 ## <font face="Times New Roman">Publications (in Reverse Chronological Order)</font> 
 
    [29] **S. Chu**, M. Herty, A. Kurganov, M. Lukáčová-Medviďová<sup>*</sup> and C. Yu, [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf)  
-   to appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
+   To appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
    [28] **S. Chu**<sup>*</sup> and M. Herty, [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf)  
    Journal of Computational Physics, 568 (2027), Paper No. 115375, 22 pp.
@@ -265,26 +265,17 @@ redirect_from:
 
 ## <font face="Times New Roman">Teaching Assistant Experience</font> 
 
-   2023 Spring &emsp;&emsp;ODE  
+   2023 Spring  &emsp;&emsp;ODE  
    2022 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra & Scientific Computing  
-   2022 Spring  &emsp;&emsp;ODE & Numerical Solutions to PDEs
-
-   2021 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I
-
-   2021 Spring  &emsp;&emsp;Calculus II
-
-   2020 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra
-
-   2020 Spring  &emsp;&emsp;Calculus II
-
-   2019 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
-
-   2019 Spring  &emsp;&emsp;Calculus II
-
-   2018 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
-
-   2018 Spring  &emsp;&emsp;Calculus II
-
+   2022 Spring  &emsp;&emsp;ODE & Numerical Solutions to PDEs  
+   2021 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I  
+   2021 Spring  &emsp;&emsp;Calculus II  
+   2020 Fall    &emsp;&emsp;&ensp;&ensp;Linear Algebra  
+   2020 Spring  &emsp;&emsp;Calculus II  
+   2019 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I  
+   2019 Spring  &emsp;&emsp;Calculus II  
+   2018 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I  
+   2018 Spring  &emsp;&emsp;Calculus II  
    2017 Fall    &emsp;&emsp;&ensp;&ensp;Calculus I 
 
 ## <font size="5">Awards</font>
