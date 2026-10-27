@@ -39,7 +39,7 @@ redirect_from:
    [3] **Shaoshuai Chu**, I. Kliakhandler and Alexander Kurganov<sup>*</sup>  
    &emsp;&thinsp;&thinsp;[Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf) <!--  to Journal of Computational Physics.---> 
 
-   [2] **Shaoshuai Chu**, Alexander Kurganov, M. Na<sup>*</sup>, B.-S. Wang and R. Xin  
+   [2] **Shaoshuai Chu**, Alexander Kurganov, M. Na<sup>*</sup>, B.-S. Wang and Ruixiao Xin  
    &emsp;&thinsp;&thinsp;[Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf) <!--  to Applied Numerical Mathematics. ---> 
 
    [1] **Shaoshuai Chu**, Alexander Kurganov, Maria Lukáčová-Medviďová and M. Na<sup>*</sup>  
@@ -91,15 +91,15 @@ redirect_from:
    &emsp;&ensp;&thinsp;&thinsp;[Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Journal of Computational Physics, 539 (2025), Paper No. 114241, 19 pp.
 
-   [18] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and R. Xin<sup>*</sup>  
+   [18] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and Ruixiao Xin<sup>*</sup>  
    &emsp;&ensp;&thinsp;&thinsp;[New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Journal of Scientific Computing, 104 (2025), Paper No. 53, 24 pp.
   
-   [17] **Shaoshuai Chu**, Alexander Kurganov and R. Xin<sup>*</sup>  
+   [17] **Shaoshuai Chu**, Alexander Kurganov and Ruixiao Xin<sup>*</sup>  
    &emsp;&ensp;&thinsp;&thinsp;[New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Journal of Scientific Computing, 103 (2025), Paper No. 33, 17 pp.
 
-   [16] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and R. Xin  
+   [16] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and Ruixiao Xin  
    &emsp;&ensp;&thinsp;&thinsp;[A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Beijing Journal of Pure and Applied Mathematics, 2 (2025), pp. 87-113.
 
@@ -115,7 +115,7 @@ redirect_from:
    &emsp;&ensp;&thinsp;&thinsp;[On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Siberian Electronic Mathematical Reports, 21 (2024), pp. B78-B91.
 
-   [12] **Shaoshuai Chu**, Alexander Kurganov and R. Xin<sup>*</sup>  
+   [12] **Shaoshuai Chu**, Alexander Kurganov and Ruixiao Xin<sup>*</sup>  
    &emsp;&ensp;&thinsp;&thinsp;[Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu_Kurganov_Xin.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Journal of Computational Physics, 518 (2024), Paper No. 113311, 35 pp.
 
@@ -123,7 +123,7 @@ redirect_from:
    &emsp;&ensp;&thinsp;&thinsp;[Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
 
-   [10] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and R. Xin  
+   [10] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and Ruixiao Xin  
    &emsp;&ensp;&ensp;[A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf)  
    &emsp;&ensp;&thinsp;&thinsp;Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
 
@@ -193,7 +193,7 @@ redirect_from:
 
    * Shaoshuai Chu, I. Kliakhandler and Alexander Kurganov, [Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf), submitted to Journal of Computational Physics.
 
-   * Shaoshuai Chu, Alexander Kurganov, M. Na, B.-S. Wang and R. Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf), submitted to Applied Numerical Mathematics. 
+   * Shaoshuai Chu, Alexander Kurganov, M. Na, B.-S. Wang and Ruixiao Xin, [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf), submitted to Applied Numerical Mathematics. 
 
    * Shaoshuai Chu, Alexander Kurganov, M. Lukacova and M. Na, [A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf), submitted to Numerical Methods for Partial Differential Equations. 
 
@@ -232,11 +232,11 @@ redirect_from:
    
    * Shaoshuai Chu, Alexander Kurganov, S. Mohammadian and Z. D.  Zheng, [Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf), Journal of Computational Physics, 539 (2025), Paper No. 114241, 19 pp.
 
-   * Shaoshuai Chu, Alexander Kurganov and R. Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf), Journal of Scientific Computing, 104 (2025), Paper No. 53, 24 pp.
+   * Shaoshuai Chu, Alexander Kurganov and Ruixiao Xin, [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf), Journal of Scientific Computing, 104 (2025), Paper No. 53, 24 pp.
   
-   * Shaoshuai Chu, Alexander Kurganov and R. Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), Journal of Scientific Computing, 103 (2025), Paper No. 33, 17 pp.
+   * Shaoshuai Chu, Alexander Kurganov and Ruixiao Xin, [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf), Journal of Scientific Computing, 103 (2025), Paper No. 33, 17 pp.
 
-   * Shaoshuai Chu, Alexander Kurganov and R. Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), Beijing Journal of Pure and Applied Mathematics, 2 (2025), pp. 87-113.
+   * Shaoshuai Chu, Alexander Kurganov and Ruixiao Xin, [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf), Beijing Journal of Pure and Applied Mathematics, 2 (2025), pp. 87-113.
 
    * Shaoshuai Chu, Alexander Kurganov and I. Menshov, [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf), Applied Numerical Mathematics, 209 (2025), pp. 155-170.
 
@@ -247,11 +247,11 @@ redirect_from:
 
    * Shaoshuai Chu, I. Kliakhandler and Alexander Kurganov, [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf), Siberian Electronic Mathematical Reports, 21 (2024), pp. 78-91.
 
-   * Shaoshuai Chu, Alexander Kurganov and R. Xin, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu_Kurganov_Xin.pdf), Journal of Computational Physics, 518 (2024), Paper No. 113311, 35 pp.
+   * Shaoshuai Chu, Alexander Kurganov and Ruixiao Xin, [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu_Kurganov_Xin.pdf), Journal of Computational Physics, 518 (2024), Paper No. 113311, 35 pp.
 
    * Alina Chertock, Shaoshuai Chu and  Alexander Kurganov, [Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf), Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
 
-   * Shaoshuai Chu, Alexander Kurganov and R. Xin, [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf), Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
+   * Shaoshuai Chu, Alexander Kurganov and Ruixiao Xin, [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf), Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
 
 ### <font face="Times New Roman">Publications in 2023</font>
 
