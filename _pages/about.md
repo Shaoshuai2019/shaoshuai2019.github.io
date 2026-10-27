@@ -124,8 +124,8 @@ redirect_from:
    &emsp;&thinsp;Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
 
    [10] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and R. Xin  
-   &emsp;&ensp;[A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf)  
-   &emsp;&ensp;Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
+   &emsp;&ensp;&thinsp;[A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf)  
+   &emsp;&ensp;&thinsp;Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
 
    [9] **Shaoshuai Chu**, O. A. Kovyrkina,  Alexander Kurganov<sup>*</sup> and  V. V. Ostapenko  
    &emsp;&thinsp;&thinsp;[Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf)  
