@@ -39,3 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Wider desktop layout */
+@media (min-width: 57.8125em) {
+  #main,
+  .masthead__inner-wrap {
+    max-width: 1400px;
+  }
+}
