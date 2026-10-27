@@ -13,12 +13,10 @@ redirect_from:
 &nbsp;
 &nbsp;
 
-
+<!---
 ## About Me
 
-I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen University. My research focuses on the development and analysis of accurate, robust, and efficient numerical methods for hyperbolic conservation and balance laws.
-
-My research interests include high-order shock-capturing schemes, low-dissipation central-upwind methods, well-balanced schemes, local characteristic decomposition, and numerical methods for hyperbolic PDEs with uncertainty.
+I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen University. My research lies in the areas of numerical analysis and scientific computing, with a focus on developing accurate, robust, and efficient numerical methods for nonlinear partial differential equations.
 
 ## Research Interests
 
@@ -26,7 +24,8 @@ My research interests include high-order shock-capturing schemes, low-dissipatio
 - High-order and low-dissipation shock-capturing schemes
 - Central-upwind and path-conservative methods
 - Well-balanced and structure-preserving schemes
-- Uncertainty quantification for hyperbolic PDEs
+- Numerical methods for hyperbolic PDEs with uncertainty
+-->
 
 ## <font face="Times New Roman">Academic Experience</font> 
 
