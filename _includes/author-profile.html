@@ -14,6 +14,33 @@
     {% endif %}
   </div>
 
+
+{% if page.url == "/" %}
+<section class="author__intro">
+
+  <h4>About Me</h4>
+
+  <p>
+    I develop accurate, robust, and efficient
+    numerical methods for hyperbolic partial
+    differential equations.
+  </p>
+
+  <h4>Research Interests</h4>
+
+  <ul>
+    <li>Hyperbolic conservation and balance laws</li>
+    <li>High-order shock-capturing schemes</li>
+    <li>Low-dissipation central-upwind methods</li>
+    <li>Well-balanced and path-conservative schemes</li>
+    <li>Uncertainty quantification</li>
+  </ul>
+
+</section>
+{% endif %}
+  
+
+  
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
