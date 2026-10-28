@@ -235,3 +235,41 @@
     }
   }
 }
+
+
+
+/* About Me and Research Interests in sidebar */
+
+.author__intro {
+  display: block;
+  clear: both;
+  margin: 1.2rem 0;
+  padding-top: 0.7rem;
+  border-top: 1px solid #e6e6e6;
+}
+
+.author__intro h4 {
+  margin: 0.9rem 0 0.4rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.author__intro p,
+.author__intro li {
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+.author__intro p {
+  margin-bottom: 0.7rem;
+}
+
+.author__intro ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.author__intro li {
+  margin-bottom: 0.35rem;
+}
+  
