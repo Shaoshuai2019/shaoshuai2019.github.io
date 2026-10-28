@@ -56,7 +56,9 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 
    [1] **Shaoshuai Chu**, Alexander Kurganov, Mária Lukáčová-Medviďová and Mingye Na<sup>*</sup>  
    &emsp;&thinsp;&thinsp;[A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf) <!--  to Numerical Methods for Partial Differential Equations.---> 
-<!--
+
+
+<!---
 ## <font face="Times New Roman">Publications (in Reverse Chronological Order)</font> 
 -->
 
