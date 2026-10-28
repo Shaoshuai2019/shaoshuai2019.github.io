@@ -27,14 +27,14 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 - Numerical methods for hyperbolic PDEs with uncertainty
 -->
 
-### <font face="Times New Roman">Academic Experience</font> 
+## <font face="Times New Roman">Academic Experience</font> 
 
 2024.06---Present&emsp;&ensp;&ensp;Postdoc, [Department of Mathematics](https://www.mathematik.rwth-aachen.de/go/id/mxy/?lidx=1), [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1/), Aachen, Germany
 
 2023.08---2024.05&thinsp;&emsp;&ensp;Research Scholar, [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China
 
 
-### <font face="Times New Roman">Recent Preprints</font> 
+## <font face="Times New Roman">Recent Preprints</font> 
 
    [7] **Shaoshuai Chu**<sup>*</sup> and Michael Herty  
    &emsp;&thinsp;&thinsp;[Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf) <!--  to SIAM Journal on Scientific Computing.---> 
@@ -56,8 +56,14 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 
    [1] **Shaoshuai Chu**, Alexander Kurganov, Mária Lukáčová-Medviďová and Mingye Na<sup>*</sup>  
    &emsp;&thinsp;&thinsp;[A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf) <!--  to Numerical Methods for Partial Differential Equations.---> 
-
+<!--
 ## <font face="Times New Roman">Publications (in Reverse Chronological Order)</font> 
+-->
+
+
+<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+  Publications (in Reverse Chronological Order)
+</h2>
 
    [29] **Shaoshuai Chu**, Michael Herty, Alexander Kurganov, Mária Lukáčová-Medviďová<sup>*</sup> and Changsheng Yu  
    &emsp;&ensp;&thinsp;&thinsp;[Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf)  
