@@ -27,14 +27,14 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 - Numerical methods for hyperbolic PDEs with uncertainty
 -->
 
-## <font face="Times New Roman">Academic Experience</font> 
+### <font face="Times New Roman">Academic Experience</font> 
 
 2024.06---Present&emsp;&ensp;&ensp;Postdoc, [Department of Mathematics](https://www.mathematik.rwth-aachen.de/go/id/mxy/?lidx=1), [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1/), Aachen, Germany
 
 2023.08---2024.05&thinsp;&emsp;&ensp;Research Scholar, [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China
 
 
-## <font face="Times New Roman">Recent Preprints</font> 
+### <font face="Times New Roman">Recent Preprints</font> 
 
    [7] **Shaoshuai Chu**<sup>*</sup> and Michael Herty  
    &emsp;&thinsp;&thinsp;[Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf) <!--  to SIAM Journal on Scientific Computing.---> 
