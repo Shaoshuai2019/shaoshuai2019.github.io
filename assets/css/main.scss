@@ -155,13 +155,13 @@
    Leave the theme's default responsive layout below 1200px. */
 @media (min-width: 1200px) {
   #main > .sidebar {
-    width: 22%;
+    width: 25%;
     margin-right: 5%;
     padding-right: 0;
   }
 
   #main > .page {
-    width: 73%;
+    width: 70%;
     margin-right: 0;
   }
 }
