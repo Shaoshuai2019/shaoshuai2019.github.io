@@ -322,29 +322,24 @@
     </ul>
   </div>
 
-  <!-- About Me and Research Interests: homepage only -->
-  {% if page.url == "/" %}
+  
+<!-- Research Interests: homepage only -->
+{% if page.url == "/" %}
 
-  <section class="author__intro">
+<section class="author__intro">
 
-    <h4>About Me</h4>
+  <h4>Research Interests</h4>
 
-    <p>
-      I develop accurate, robust, and efficient
-      numerical methods for hyperbolic PDEs.
-    </p>
+  <ul>
+    <li>Hyperbolic conservation and balance laws</li>
+    <li>High-order and low-dissipation schemes</li>
+    <li>Central-upwind and well-balanced methods</li>
+    <li>Uncertainty quantification</li>
+  </ul>
 
-    <h4>Research Interests</h4>
+</section>
 
-    <ul>
-      <li>Hyperbolic conservation and balance laws</li>
-      <li>High-order and low-dissipation schemes</li>
-      <li>Central-upwind and well-balanced methods</li>
-      <li>Uncertainty quantification</li>
-    </ul>
+{% endif %}
 
-  </section>
-
-  {% endif %}
 
 </div>
