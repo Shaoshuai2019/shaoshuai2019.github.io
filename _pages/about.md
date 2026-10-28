@@ -26,15 +26,25 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 - Well-balanced and structure-preserving schemes
 - Numerical methods for hyperbolic PDEs with uncertainty
 -->
-
+<!--- 
 ## <font face="Times New Roman">Academic Experience</font> 
+-->
+
+<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+  Academic Experience
+</h2>
 
 2024.06---Present&emsp;&ensp;&ensp;Postdoc, [Department of Mathematics](https://www.mathematik.rwth-aachen.de/go/id/mxy/?lidx=1), [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1/), Aachen, Germany
 
 2023.08---2024.05&thinsp;&emsp;&ensp;Research Scholar, [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China
 
-
+<!---
 ## <font face="Times New Roman">Recent Preprints</font> 
+-->
+
+<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+  Recent Preprints
+</h2>
 
    [7] **Shaoshuai Chu**<sup>*</sup> and Michael Herty  
    &emsp;&thinsp;&thinsp;[Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf) <!--  to SIAM Journal on Scientific Computing.---> 
@@ -298,10 +308,15 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 
   * Alina Chertock, Shaoshuai Chu and Alexander Kurganov, [Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf), Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
 
---->
+
+
 
 ## <font face="Times New Roman">Education</font> 
+--->
 
+<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+  Education
+</h2>
 
 2019---2023&emsp;&ensp;PhD in Computational Mathematics,             
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology, Shenzhen, China  
@@ -313,7 +328,13 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 2013---2017&emsp;&ensp;BS in Information and Computing Science,   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
 
+<!---
 ## <font face="Times New Roman">Teaching Assistant Experience</font> 
+-->
+
+<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+  Teaching Assistant Experience
+</h2>
 
    | Semester | Course |
    |:---------|:-------|
@@ -331,7 +352,15 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
    | 2017 Fall | Calculus I |
    {: .teaching-table}
 
+
+<!---
 ## <font size="5">Awards</font>
+-->
+
+<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+  Awards
+</h2>
+
 
    2023.06 &emsp;&ensp; Top 10 Outstanding Postgraduate Graduates, SUSTech, Shenzhen, China 
 
