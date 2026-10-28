@@ -48,6 +48,7 @@
   }
 }
 
+/* Teaching table formatting */
 .teaching-table {
   display: table !important;
   width: auto !important;
@@ -85,8 +86,11 @@
    Academic Homepage Layout Refinement
    ========================================== */
 
-/* 1. Sidebar typography */
+/* The right-hand body text is 1em; the site's root font size
+   is 16px on small screens and 18px on larger screens.
+   Matching 1rem here keeps left and right body text aligned. */
 
+/* Sidebar name and position */
 .sidebar .author__name {
   font-size: 1.375rem;
   line-height: 1.3;
@@ -94,3 +98,70 @@
 }
 
 .sidebar .author__bio {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+/* Contact links match the right-hand body text */
+.sidebar .author__urls li,
+.sidebar .author__urls a {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+/* About Me and Research Interests */
+.sidebar .author__intro {
+  display: block;
+  clear: both;
+  margin-top: 1.2rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid #e5e7eb;
+}
+
+.sidebar .author__intro h4 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0.9rem 0 0.45rem;
+}
+
+.sidebar .author__intro p,
+.sidebar .author__intro li {
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+.sidebar .author__intro p {
+  margin-bottom: 0.8rem;
+}
+
+.sidebar .author__intro ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.sidebar .author__intro li {
+  margin-bottom: 0.4rem;
+}
+
+/* Main section headings (body text remains unchanged) */
+.page__content h2 {
+  font-size: 1.45rem;
+  line-height: 1.35;
+}
+
+/* Desktop: 22% sidebar + 5% gutter + 73% main content.
+   Leave the theme's default responsive layout below 1200px. */
+@media (min-width: 1200px) {
+  #main > .sidebar {
+    width: 22%;
+    margin-right: 5%;
+    padding-right: 0;
+  }
+
+  #main > .page {
+    width: 73%;
+    margin-right: 0;
+  }
+}
