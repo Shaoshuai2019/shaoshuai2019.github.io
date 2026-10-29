@@ -34,9 +34,9 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
   Academic Experience
 </h2>
 
-2024.06---Present&ensp;&ensp;Postdoc, [Department of Mathematics](https://www.mathematik.rwth-aachen.de/go/id/mxy/?lidx=1), [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1/), Aachen, Germany
+2024.06---Present&ensp;&emsp;Postdoc, [Department of Mathematics](https://www.mathematik.rwth-aachen.de/go/id/mxy/?lidx=1), [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1/), Aachen, Germany
 
-2023.08---2024.05&thinsp;&ensp;Research Scholar, [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China
+2023.08---2024.05&thinsp;&emsp;Research Scholar, [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China
 
 <!---
 ## <font face="Times New Roman">Recent Preprints</font> 
