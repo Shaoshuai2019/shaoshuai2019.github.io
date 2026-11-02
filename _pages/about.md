@@ -15,8 +15,8 @@ redirect_from:
 .hp-nav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 1.2em;}
 .page__content .hp-nav a:link,.page__content .hp-nav a:visited{padding:4px 14px;border:1px solid #d9e1e7;border-radius:999px;color:#34414d;font-size:.9em;line-height:1.5;text-decoration:none;}
 .page__content .hp-nav a:hover,.page__content .hp-nav a:focus-visible{border-color:#52adc8;background:#eef7fa;color:#1f6f8b;}
-.pubs p{margin:0 0 1em;padding-left:2.4em;text-indent:-2.4em;}
-.pubs .pn{display:inline-block;width:2.4em;text-indent:0;}
+   .pubs p{margin:0 0 1em;padding-left:2em;text-indent:-2em;}
+   .pubs .pn{display:inline-block;width:1.7em;margin-right:.3em;text-align:right;text-indent:0;}
 .hp-row{display:grid;grid-template-columns:10em 1fr;gap:.1em 1.5em;margin:0 0 .9em;}
 .hp-when{white-space:nowrap;}
 @media (max-width:600px){.hp-row{grid-template-columns:1fr;}.hp-when{font-weight:600;}}
