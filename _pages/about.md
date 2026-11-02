@@ -223,8 +223,6 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 
 
 
-## <font face="Times New Roman">Education</font> 
---->
 
 <h2 id="education" style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
   Education
