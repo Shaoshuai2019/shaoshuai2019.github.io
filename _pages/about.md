@@ -11,6 +11,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.hp-nav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 .5em;}
+.page__content .hp-nav a:link,.page__content .hp-nav a:visited{padding:4px 14px;border:1px solid #d9e1e7;border-radius:999px;color:#34414d;font-size:.9em;line-height:1.5;text-decoration:none;}
+.page__content .hp-nav a:hover,.page__content .hp-nav a:focus-visible{border-color:#52adc8;background:#eef7fa;color:#1f6f8b;}
+</style>
+<nav class="hp-nav" aria-label="Sections">
+<a href="#experience">Experience</a>
+<a href="#preprints">Preprints</a>
+<a href="#publications">Publications</a>
+<a href="#education">Education</a>
+<a href="#teaching">Teaching</a>
+<a href="#awards">Awards</a>
+</nav>
 
 
 &nbsp;
@@ -403,5 +416,3 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 --->
 &nbsp;
 &nbsp;
-
-
