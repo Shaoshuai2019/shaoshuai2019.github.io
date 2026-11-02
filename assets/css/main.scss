@@ -165,3 +165,27 @@
     margin-right: 0;
   }
 }
+
+
+/* Hide the Follow button */
+.author__urls-wrapper > button {
+  display: none !important;
+}
+
+/* Always show contact information */
+.author__urls {
+  display: block !important;
+  position: relative;
+  right: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  z-index: auto;
+}
+
+.author__urls::before,
+.author__urls::after {
+  display: none;
+}
