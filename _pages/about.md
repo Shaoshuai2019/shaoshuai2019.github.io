@@ -1,5 +1,6 @@
-[Experience](#experience) | [Preprints](#preprints) | [Publications](#publications) | [Education](#education) | [Teaching](#teaching) | [Awards](#awards)
 ---
+[Experience](#experience) | [Preprints](#preprints) | [Publications](#publications) | [Education](#education) | [Teaching](#teaching) | [Awards](#awards)
+
 permalink: /
 #title: "Hello! Welcome to my homepage"#&emsp;&emsp;&emsp;&emsp;
 #title: "<font color=blue>Hello there, I am Shaoshuai Chu (楚少帅)! &ensp;Welcome to my homepage!</font>"
