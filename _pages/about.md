@@ -11,7 +11,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Experience](#experience) | [Preprints](#preprints) | [Publications](#publications) | [Education](#education) | [Teaching](#teaching) | [Awards](#awards)
+
 
 &nbsp;
 &nbsp;
