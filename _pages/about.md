@@ -17,7 +17,9 @@ redirect_from:
 .page__content .hp-nav a:hover,.page__content .hp-nav a:focus-visible{border-color:#52adc8;background:#eef7fa;color:#1f6f8b;}
    .pubs p{margin:0 0 1em;padding-left:2em;text-indent:-2em;}
    .pubs .pn{display:inline-block;width:1.7em;margin-right:.3em;text-align:right;text-indent:0;}
-.hp-row{display:grid;grid-template-columns:10em 1fr;gap:.1em 1.5em;margin:0 0 .9em;}
+   .hp-row{display:grid;grid-template-columns:7.6em 1fr;gap:.1em 1.2em;margin:0 0 .9em;}
+   #education ~ .hp-row{grid-template-columns:5.1em 1fr;}
+   #awards ~ .hp-row{grid-template-columns:3.4em 1fr;}
 .hp-when{white-space:nowrap;}
 @media (max-width:600px){.hp-row{grid-template-columns:1fr;}.hp-when{font-weight:600;}}
 </style>
