@@ -30,7 +30,7 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 ## <font face="Times New Roman">Academic Experience</font> 
 -->
 
-<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+<h2 id="experience" style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
   Academic Experience
 </h2>
 
@@ -42,7 +42,7 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 ## <font face="Times New Roman">Recent Preprints</font> 
 -->
 
-<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+<h2 id="preprints" style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
   Recent Preprints
 </h2>
 
@@ -73,7 +73,7 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 -->
 
 
-<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+<h2 id="publications" style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
   Publications (in Reverse Chronological Order)
 </h2>
 
@@ -314,7 +314,7 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 ## <font face="Times New Roman">Education</font> 
 --->
 
-<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+<h2 id="education" style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
   Education
 </h2>
 
@@ -332,7 +332,7 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 ## <font face="Times New Roman">Teaching Assistant Experience</font> 
 -->
 
-<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+<h2 id="teaching" style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
   Teaching Assistant Experience
 </h2>
 
@@ -357,7 +357,7 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 ## <font size="5">Awards</font>
 -->
 
-<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
+<h2 id="awards" style="font-family: 'Times New Roman', Times, serif; font-size: 1.25rem;">
   Awards
 </h2>
 
