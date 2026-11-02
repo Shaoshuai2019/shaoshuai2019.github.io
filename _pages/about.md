@@ -12,9 +12,13 @@ redirect_from:
   - /about.html
 ---
 <style>
-.hp-nav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 .5em;}
+.hp-nav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 1.2em;}
 .page__content .hp-nav a:link,.page__content .hp-nav a:visited{padding:4px 14px;border:1px solid #d9e1e7;border-radius:999px;color:#34414d;font-size:.9em;line-height:1.5;text-decoration:none;}
 .page__content .hp-nav a:hover,.page__content .hp-nav a:focus-visible{border-color:#52adc8;background:#eef7fa;color:#1f6f8b;}
+.pubs p{margin:0 0 1em;padding-left:1.8em;text-indent:-1.8em;}
+.hp-row{display:grid;grid-template-columns:10em 1fr;gap:.1em 1.5em;margin:0 0 .9em;}
+.hp-when{white-space:nowrap;}
+@media (max-width:600px){.hp-row{grid-template-columns:1fr;}.hp-when{font-weight:600;}}
 </style>
 <nav class="hp-nav" aria-label="Sections">
 <a href="#experience">Experience</a>
@@ -24,10 +28,6 @@ redirect_from:
 <a href="#teaching">Teaching</a>
 <a href="#awards">Awards</a>
 </nav>
-
-
-&nbsp;
-&nbsp;
 
 <!---
 ## About Me
@@ -50,9 +50,9 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
   Academic Experience
 </h2>
 
-2024.06---Present&ensp;&emsp;Postdoc, [Department of Mathematics](https://www.mathematik.rwth-aachen.de/go/id/mxy/?lidx=1), [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1/), Aachen, Germany
 
-2023.08---2024.05&thinsp;&emsp;Research Scholar, [Shenzhen International Center for Mathematics](https://icm.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China
+<div class="hp-row"><span class="hp-when">2024.06—Present</span><div>Postdoc, <a href="https://www.mathematik.rwth-aachen.de/go/id/mxy/?lidx=1">Department of Mathematics</a>, <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1/">RWTH Aachen University</a>, Aachen, Germany</div></div>
+<div class="hp-row"><span class="hp-when">2023.08—2024.05</span><div>Research Scholar, <a href="https://icm.sustech.edu.cn/?lang=en-us">Shenzhen International Center for Mathematics</a>, <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology</a>, Shenzhen, China</div></div>
 
 <!---
 ## <font face="Times New Roman">Recent Preprints</font> 
@@ -62,27 +62,31 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
   Recent Preprints
 </h2>
 
-   [7] **Shaoshuai Chu**<sup>*</sup> and Michael Herty  
-   &emsp;&thinsp;&thinsp;[Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf) <!--  to SIAM Journal on Scientific Computing.---> 
+
+<div class="pubs" markdown="1">
+
+[7] **Shaoshuai Chu**<sup>*</sup> and Michael Herty  
+   [Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf) <!--  to SIAM Journal on Scientific Computing.---> 
    
    [6] **Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
-   &emsp;&thinsp;&thinsp;[Entropy-Based Local Characteristic Decomposition](./files/Chu_Herty_Kurganov_LCD.pdf) <!--  to Journal of Scientific Computing.---> 
+   [Entropy-Based Local Characteristic Decomposition](./files/Chu_Herty_Kurganov_LCD.pdf) <!--  to Journal of Scientific Computing.---> 
 
    [5] **Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
-   &emsp;&thinsp;&thinsp;[New Scheme Adaption Strategy for Hyperbolic Conservation Laws](./files/Chu-Herty-Kurganov-Adaptive.pdf) <!--  to Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2025.---> 
+   [New Scheme Adaption Strategy for Hyperbolic Conservation Laws](./files/Chu-Herty-Kurganov-Adaptive.pdf) <!--  to Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2025.---> 
 
    [4] **Shaoshuai Chu**, Pingyao Feng, Vadim A. Kolotilov, Alexander Kurganov<sup>*</sup> and Vladimir V. Ostapenko  
-   &emsp;&thinsp;&thinsp;[Novel Adaptive Methods for Hyperbolic Conservation Laws Based on New Quasi-Linear Seventh- and Ninth-Order Schemes](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko-New.pdf) <!--  to Communications in Computational Physics.---> 
+   [Novel Adaptive Methods for Hyperbolic Conservation Laws Based on New Quasi-Linear Seventh- and Ninth-Order Schemes](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko-New.pdf) <!--  to Communications in Computational Physics.---> 
 
    [3] **Shaoshuai Chu**, Igor Kliakhandler and Alexander Kurganov<sup>*</sup>  
-   &emsp;&thinsp;&thinsp;[Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf) <!--  to Journal of Computational Physics.---> 
+   [Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf) <!--  to Journal of Computational Physics.---> 
 
    [2] **Shaoshuai Chu**, Alexander Kurganov, Mingye Na<sup>*</sup>, Baoshan Wang and Ruixiao Xin  
-   &emsp;&thinsp;&thinsp;[Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf) <!--  to Applied Numerical Mathematics. ---> 
+   [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf) <!--  to Applied Numerical Mathematics. ---> 
 
    [1] **Shaoshuai Chu**, Alexander Kurganov, Mária Lukáčová-Medviďová and Mingye Na<sup>*</sup>  
-   &emsp;&thinsp;&thinsp;[A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf) <!--  to Numerical Methods for Partial Differential Equations.---> 
+   [A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf) <!--  to Numerical Methods for Partial Differential Equations.--->
 
+</div>
 
 <!---
 ## <font face="Times New Roman">Publications (in Reverse Chronological Order)</font> 
@@ -93,121 +97,127 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
   Publications (in Reverse Chronological Order)
 </h2>
 
-   [29] **Shaoshuai Chu**, Michael Herty, Alexander Kurganov, Mária Lukáčová-Medviďová<sup>*</sup> and Changsheng Yu  
-   &emsp;&ensp;&thinsp;&thinsp;[Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;To appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
+
+<div class="pubs" markdown="1">
+
+[29] **Shaoshuai Chu**, Michael Herty, Alexander Kurganov, Mária Lukáčová-Medviďová<sup>*</sup> and Changsheng Yu  
+   [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf)  
+   To appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
    [28] **Shaoshuai Chu**<sup>*</sup> and Michael Herty  
-   &emsp;&ensp;&thinsp;&thinsp;[High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Journal of Computational Physics, 568 (2027), Paper No. 115375, 22 pp.
+   [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf)  
+   Journal of Computational Physics, 568 (2027), Paper No. 115375, 22 pp.
 
    [27] Markus Bambach, **Shaoshuai Chu**<sup>*</sup>, Michael Herty and Yunong Lin  
-   &emsp;&ensp;&thinsp;&thinsp;[A Bayesian Approach to Feedback Control for Hyperbolic Balance Laws](./files/Bambach_Chu_Herty_Lin_Stability.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;International Journal of Control, 99 (2026), pp. 3163-3182.
+   [A Bayesian Approach to Feedback Control for Hyperbolic Balance Laws](./files/Bambach_Chu_Herty_Lin_Stability.pdf)  
+   International Journal of Control, 99 (2026), pp. 3163-3182.
 
    [26] **Shaoshuai Chu**<sup>*</sup> and Michael Herty  
-   &emsp;&ensp;&thinsp;&thinsp;[A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws](./files/Chu_Herty_LD.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Numerical Methods for Partial Differential Equations, 42 (2026), Paper No. e70140, 41 pp.
+   [A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws](./files/Chu_Herty_LD.pdf)  
+   Numerical Methods for Partial Differential Equations, 42 (2026), Paper No. e70140, 41 pp.
 
    [25] **Shaoshuai Chu**, Michael Herty<sup>*</sup>, Mária Lukáčová-Medviďová and Yizhou Zhou  
-   &emsp;&ensp;&thinsp;&thinsp;[Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;SIAM Journal on Scientific Computing, 48 (2026), pp. A1184-A1205. 
+   [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf)  
+   SIAM Journal on Scientific Computing, 48 (2026), pp. A1184-A1205. 
 
    [24] **Shaoshuai Chu**<sup>*</sup>, Michael Herty and Alexander Kurganov  
-   &emsp;&ensp;&thinsp;&thinsp;[Numerical Analysis of Stabilisation for Random Hyperbolic Systems of Conservation Laws](./files/Chu-Herty-Kurganov.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;International Journal of Control,  99 (2026), pp. 1545–1560. 
+   [Numerical Analysis of Stabilisation for Random Hyperbolic Systems of Conservation Laws](./files/Chu-Herty-Kurganov.pdf)  
+   International Journal of Control,  99 (2026), pp. 1545–1560. 
 
    [23] **Shaoshuai Chu**, Pingyao Feng, Vadim A. Kolotilov, Alexander Kurganov<sup>*</sup> and Vladimir V. Ostapenko  
-   &emsp;&ensp;&thinsp;&thinsp;[Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Communications in Computational Physics, (2026).
+   [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf)  
+   Communications in Computational Physics, (2026).
 
    [22] Amelie Porfetye, Zhuyan Tang<sup>*</sup>, **Shaoshuai Chu**, Christiane Helzel and Mária Lukáčová-Medviďová  
-   &emsp;&ensp;&thinsp;&thinsp;[New Fully Discrete Active Flux Methods with Truly Multi-Dimensional Evolution Operators and WENO Reconstruction](./files/Porfetye_Tang_Chu_Helzel_Lukacova.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Journal of Scientific Computing, 109 (2026), Paper No. 33, 32 pp.
+   [New Fully Discrete Active Flux Methods with Truly Multi-Dimensional Evolution Operators and WENO Reconstruction](./files/Porfetye_Tang_Chu_Helzel_Lukacova.pdf)  
+   Journal of Scientific Computing, 109 (2026), Paper No. 33, 32 pp.
    
    [21] **Shaoshuai Chu**<sup>*</sup>, Michael Herty and Eleuterio F. Toro  
-   &emsp;&ensp;&thinsp;&thinsp;[High-Order Flux Splitting Schemes for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Toro.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Computers & Fluids, 300 (2025), Paper No. 106738, 15 pp. 
+   [High-Order Flux Splitting Schemes for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Toro.pdf)  
+   Computers & Fluids, 300 (2025), Paper No. 106738, 15 pp. 
 
    [20] **Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
-   &emsp;&ensp;&thinsp;&thinsp;[Novel Local Characteristic Decomposition Based Path-Conservative Central-Upwind Schemes](./files/Chu_Herty_Kurganov_LCDPCCU.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Journal of Computational Physics, 524 (2025), Paper No. 113692, 24 pp.
+   [Novel Local Characteristic Decomposition Based Path-Conservative Central-Upwind Schemes](./files/Chu_Herty_Kurganov_LCDPCCU.pdf)  
+   Journal of Computational Physics, 524 (2025), Paper No. 113692, 24 pp.
    
    [19] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup>, Saeed Mohammadian and Zuduo  Zheng  
-   &emsp;&ensp;&thinsp;&thinsp;[Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Journal of Computational Physics, 539 (2025), Paper No. 114241, 19 pp.
+   [Central-Upwind Scheme for the Phase-Transition Traffic Flow Model](./files/CKMZ_PTM.pdf)  
+   Journal of Computational Physics, 539 (2025), Paper No. 114241, 19 pp.
 
    [18] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and Ruixiao Xin<sup>*</sup>  
-   &emsp;&ensp;&thinsp;&thinsp;[New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Journal of Scientific Computing, 104 (2025), Paper No. 53, 24 pp.
+   [New More Efficient A-WENO Schemes](./files/Chu-Kurganov-Xin-New.pdf)  
+   Journal of Scientific Computing, 104 (2025), Paper No. 53, 24 pp.
   
    [17] **Shaoshuai Chu**, Alexander Kurganov and Ruixiao Xin<sup>*</sup>  
-   &emsp;&ensp;&thinsp;&thinsp;[New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Journal of Scientific Computing, 103 (2025), Paper No. 33, 17 pp.
+   [New Low-Dissipation Central-Upwind Schemes. Part II](./files/CKX_Ustar.pdf)  
+   Journal of Scientific Computing, 103 (2025), Paper No. 33, 17 pp.
 
    [16] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and Ruixiao Xin  
-   &emsp;&ensp;&thinsp;&thinsp;[A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Beijing Journal of Pure and Applied Mathematics, 2 (2025), pp. 87-113.
+   [A Well-Balanced Fifth-Order A-WENO Scheme Based on Flux Globalization](./files/Chu-Kurganov-Xin_WB_AWENO.pdf)  
+   Beijing Journal of Pure and Applied Mathematics, 2 (2025), pp. 87-113.
 
    [15] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and Igor Menshov  
-   &emsp;&ensp;&thinsp;&thinsp;[New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Applied Numerical Mathematics, 209 (2025), pp. 155-170.
+   [New Adaptive Low-Dissipation Central-Upwind Schemes](./files/Chu-Kurganov_adaptiveLDCU.pdf)  
+   Applied Numerical Mathematics, 209 (2025), pp. 155-170.
 
    [14] Saeed Mohammadian, Zuduo  Zheng<sup>*</sup>, **Shaoshuai Chu** and Alexander Kurganov  
-   &emsp;&ensp;&thinsp;&thinsp;[Numerical Study of the Non-Conservative NET-RAT Traffic Flow Model by Path-Conservative Central-Upwind Schemes](./files/Mohammadian-Zheng-Chu-Kurganov.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Computers and Mathematics with Applications, 179 (2025), pp. 212-228.
+   [Numerical Study of the Non-Conservative NET-RAT Traffic Flow Model by Path-Conservative Central-Upwind Schemes](./files/Mohammadian-Zheng-Chu-Kurganov.pdf)  
+   Computers and Mathematics with Applications, 179 (2025), pp. 212-228.
 
    [13] **Shaoshuai Chu**, Igor Kliakhandler and Alexander Kurganov<sup>*</sup>  
-   &emsp;&ensp;&thinsp;&thinsp;[On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Siberian Electronic Mathematical Reports, 21 (2024), pp. B78-B91.
+   [On the Gelfand Problem and Viscosity Matrices for Two-Dimensional Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov.pdf)  
+   Siberian Electronic Mathematical Reports, 21 (2024), pp. B78-B91.
 
    [12] **Shaoshuai Chu**, Alexander Kurganov and Ruixiao Xin<sup>*</sup>  
-   &emsp;&ensp;&thinsp;&thinsp;[Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu_Kurganov_Xin.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Journal of Computational Physics, 518 (2024), Paper No. 113311, 35 pp.
+   [Low-Dissipation Central-Upwind Schemes for Compressible Multifluids](./files/Chu_Kurganov_Xin.pdf)  
+   Journal of Computational Physics, 518 (2024), Paper No. 113311, 35 pp.
 
    [11] Alina Chertock, **Shaoshuai Chu**<sup>*</sup> and  Alexander Kurganov  
-   &emsp;&ensp;&thinsp;&thinsp;[Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
+   [Accurate Deterministic Projection Methods for Stiff Detonation Waves](./files/Chertock-Chu-Kurganov.pdf)  
+   Communications in Mathematical Sciences, 22 (2024), pp. 871-910.
 
    [10] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup> and Ruixiao Xin  
-   &emsp;&ensp;&ensp;[A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf)  
-   &emsp;&ensp;&thinsp;&thinsp;Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
+   [A Fifth-Order A-WENO Scheme Based on the Low-Dissipation Central-Upwind Fluxes](./files/Chu-Kurganov-Xin.pdf)  
+   Hyperbolic problems: theory, numerics, applications. Vol. II, SEMA SIMAI Springer Ser., Vol. 35, pp. 51–61, Springer, Cham, 2024.
 
    [9] **Shaoshuai Chu**, Olyana A. Kovyrkina,  Alexander Kurganov<sup>*</sup> and  Vladimir V. Ostapenko  
-   &emsp;&thinsp;&thinsp;[Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf)  
-   &emsp;&thinsp;&thinsp;Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
+   [Experimental Convergence Rate Study for Three Shock-Capturing Schemes and Development of Highly Accurate Combined Schemes](./files/Chu-Kovyrkina-Kurganov-Ostapenko.pdf)  
+   Numerical Methods for Partial Differential Equations, 39 (2023), pp. 4317-4346.
 
    [8] Vadim A. Kolotilov, Alexander Kurganov<sup>*</sup>, Vladimir V. Ostapenko, Nadezhda A. Khandeeva and **Shaoshuai Chu**  
-   &emsp;&thinsp;&thinsp;[On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Kolotilov-Kurganov-Ostapenko-Khandeeva-Chu.pdf)  
-   &emsp;&thinsp;&thinsp;Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
+   [On the Accuracy of Shock-Capturing Schemes Calculating Gas-Dynamic Shock Waves](./files/Kolotilov-Kurganov-Ostapenko-Khandeeva-Chu.pdf)  
+   Computational Mathematics and Mathematical Physics, 63 (2023), pp. 1341-1349.
 
    [7] Alina Chertock, **Shaoshuai Chu** and Alexander Kurganov<sup>*</sup>  
-   &emsp;&thinsp;&thinsp;[Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator](./files/Chertock-Chu-Kurganov_AWENO.pdf)  
-   &emsp;&thinsp;&thinsp;East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
+   [Adaptive High-Order A-WENO Schemes Based on a New Local Smoothness Indicator](./files/Chertock-Chu-Kurganov_AWENO.pdf)  
+   East Asian Journal on Applied Mathematics, 13 (2023), pp. 576-609.
 
    [6] **Shaoshuai Chu** and Alexander Kurganov<sup>*</sup>  
-   &emsp;&thinsp;&thinsp;[Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf)  
-   &emsp;&thinsp;&thinsp;Finite Volumes for Complex Applications X–Volume 2, Hyperbolic and Related Problems, Springer Proc. Math. Stat., Vol. 433 (2023), pp. 73–81, Springer, Cham.
+   [Local Characteristic Decomposition Based Central-Upwind Scheme for Compressible Multifluids](./files/Chu-Kurganov_multifluid.pdf)  
+   Finite Volumes for Complex Applications X–Volume 2, Hyperbolic and Related Problems, Springer Proc. Math. Stat., Vol. 433 (2023), pp. 73–81, Springer, Cham.
 
    [5] **Shaoshuai Chu**, Alexander Kurganov<sup>*</sup>, Saeed Mohammadian and Zuduo  Zheng  
-   &emsp;&thinsp;&thinsp;[Fifth-Order A-WENO Path-Conservative Central-Upwind Scheme for Behavioral Non-Equilibrium Traffic Models](./files/Chu-Kurganov-Mohammadian-Zheng.pdf)  
-   &emsp;&thinsp;&thinsp;Communications in Computational Physics, 33 (2023), pp. 692-732.
+   [Fifth-Order A-WENO Path-Conservative Central-Upwind Scheme for Behavioral Non-Equilibrium Traffic Models](./files/Chu-Kurganov-Mohammadian-Zheng.pdf)  
+   Communications in Computational Physics, 33 (2023), pp. 692-732.
 
    [4] **Shaoshuai Chu** and Alexander Kurganov<sup>*</sup>  
-   &emsp;&thinsp;&thinsp;[Flux Globalization Based Well-Balanced Central-Upwind Scheme for One-Dimensional Blood Flow Models](./files/Chu-Kurganov.pdf)  
-   &emsp;&thinsp;&thinsp;Calcolo, 60 (2023), Paper No. 2, 35 pp.
+   [Flux Globalization Based Well-Balanced Central-Upwind Scheme for One-Dimensional Blood Flow Models](./files/Chu-Kurganov.pdf)  
+   Calcolo, 60 (2023), Paper No. 2, 35 pp.
 
    [3] Alina Chertock, **Shaoshuai Chu**<sup>*</sup>, Michael Herty, Alexander Kurganov and Mária Lukáčová-Medviďová  
-   &emsp;&thinsp;&thinsp;[Local Characteristic Decomposition Based Central-Upwind Scheme](./files/Chertock-Chu-Herty-Kurganov-Lukacova.pdf)  
-   &emsp;&thinsp;&thinsp;Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
+   [Local Characteristic Decomposition Based Central-Upwind Scheme](./files/Chertock-Chu-Herty-Kurganov-Lukacova.pdf)  
+   Journal of Computational Physics, 473 (2023), Paper No. 111718, 24 pp.
 
    [2] **Shaoshuai Chu**, Alexander Kurganov and Mingye Na<sup>*</sup>  
-   &emsp;&thinsp;&thinsp;[Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf)  
-   &emsp;&thinsp;&thinsp;Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
+   [Fifth-Order A-WENO Schemes Based on the Path-Conservative Central-Upwind Method](./files/Chu-Kurganov-Na.pdf)  
+   Journal of Computational Physics, 469 (2022), Paper No. 111508, 22 pp.
 
    [1] Alina Chertock, **Shaoshuai Chu**<sup>*</sup> and Alexander Kurganov  
-   &emsp;&thinsp;&thinsp;[Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf)  
-   &emsp;&thinsp;&thinsp;Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
+   [Hybrid Multifluid Algorithms Based on the Path-Conservative Central-Upwind Scheme](./files/Chertock-Chu-Kurganov_multifluids.pdf)  
+   Journal of Scientific Computing, 89 (2021), Paper No. 48, 24 pp.
+
+</div>
+
 
 
 
@@ -334,15 +344,10 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
   Education
 </h2>
 
-2019---2023&emsp;&ensp;PhD in Computational Mathematics,             
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology, Shenzhen, China  
 
-2017---2019&emsp;&ensp;MS in Computational Mathematics,   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics, Harbin Institute of Technology, Harbin, China   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Department of Mathematics, Southern University of Science and Technology, Shenzhen, China  
-
-2013---2017&emsp;&ensp;BS in Information and Computing Science,   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
+<div class="hp-row"><span class="hp-when">2019—2023</span><div>PhD in Computational Mathematics,<br>Department of Mathematics, Southern University of Science and Technology, Shenzhen, China</div></div>
+<div class="hp-row"><span class="hp-when">2017—2019</span><div>MS in Computational Mathematics,<br>School of Mathematics, Harbin Institute of Technology, Harbin, China<br>Department of Mathematics, Southern University of Science and Technology, Shenzhen, China</div></div>
+<div class="hp-row"><span class="hp-when">2013—2017</span><div>BS in Information and Computing Science,<br>School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China</div></div>
 
 <!---
 ## <font face="Times New Roman">Teaching Assistant Experience</font> 
@@ -378,9 +383,9 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 </h2>
 
 
-   2023.06 &emsp;&ensp; Top 10 Outstanding Postgraduate Graduates, SUSTech, Shenzhen, China 
 
-   2022.10 &emsp;&ensp; National Scholarship, SUSTech, Shenzhen, China
+<div class="hp-row"><span class="hp-when">2023.06</span><div>Top 10 Outstanding Postgraduate Graduates, SUSTech, Shenzhen, China</div></div>
+<div class="hp-row"><span class="hp-when">2022.10</span><div>National Scholarship, SUSTech, Shenzhen, China</div></div>
 
 <!-- 
   * 2023.06 &emsp;&ensp; Top 10 Graduates with a Postgraduate Degree of the University    
