@@ -106,7 +106,7 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 
    <span class="pn">[29]</span>**Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
    [New Scheme Adaption Strategy for Hyperbolic Conservation Laws](./files/Chu-Herty-Kurganov-Adaptive.pdf)  
-   To Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2025.
+   To appear in Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2025.
 
    <span class="pn">[28]</span>**Shaoshuai Chu**<sup>*</sup> and Michael Herty  
    [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf)  
