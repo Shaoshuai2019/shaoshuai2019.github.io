@@ -21,7 +21,7 @@ redirect_from:
    #education ~ .hp-row{grid-template-columns:5.1em 1fr;}
    #awards ~ .hp-row{grid-template-columns:3.4em 1fr;}
 .hp-when{white-space:nowrap;}
-@media (max-width:600px){.hp-row{grid-template-columns:1fr;}.hp-when{font-weight:600;}}
+@media (max-width:600px){.hp-row,#education ~ .hp-row,#awards ~ .hp-row{grid-template-columns:1fr;}.hp-when{font-weight:600;}}
 </style>
 <nav class="hp-nav" aria-label="Sections">
 <a href="#experience">Experience</a>
@@ -70,7 +70,7 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 
    <span class="pn">[6]</span>**Shaoshuai Chu**<sup>*</sup> and Michael Herty  
    [Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf) <!--  to SIAM Journal on Scientific Computing.---> 
-   
+
    <span class="pn">[5]</span>**Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
    [Entropy-Based Local Characteristic Decomposition](./files/Chu_Herty_Kurganov_LCD.pdf) <!--  to Journal of Scientific Computing.---> 
 
@@ -80,11 +80,11 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
    <span class="pn">[3]</span>**Shaoshuai Chu**, Igor Kliakhandler and Alexander Kurganov<sup>*</sup>  
    [Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf) <!--  to Journal of Computational Physics.---> 
 
-   <span class="pn">[2]</span>**Shaoshuai Chu**, Alexander Kurganov, Mingye Na<sup>*</sup>, Baoshan Wang and Ruixiao Xin  
-   [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf) <!--  to Applied Numerical Mathematics. ---> 
-
-   <span class="pn">[1]</span>**Shaoshuai Chu**, Alexander Kurganov, Mária Lukáčová-Medviďová and Mingye Na<sup>*</sup>  
+   <span class="pn">[2]</span>**Shaoshuai Chu**, Alexander Kurganov, Mária Lukáčová-Medviďová and Mingye Na<sup>*</sup>  
    [A Locally Divergence-Free Local Characteristic Decomposition Based   Path-Conservative Central-Upwind Scheme for Ideal Magnetohydrodynamics](./files/Chu_Kurganov_Lukacova_Na_Arxiv.pdf) <!--  to Numerical Methods for Partial Differential Equations.--->
+
+   <span class="pn">[1]</span>**Shaoshuai Chu**, Alexander Kurganov, Mingye Na<sup>*</sup>, Baoshan Wang and Ruixiao Xin  
+   [Local Characteristic Decomposition of Equilibrium Variables for Hyperbolic Systems of Balance Laws](./files/Chu-Kurganov-Na-Wang-Xin.pdf) <!--  to Applied Numerical Mathematics. ---> 
 
 </div>
 
