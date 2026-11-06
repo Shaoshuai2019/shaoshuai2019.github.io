@@ -68,14 +68,12 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 
 <div class="pubs" markdown="1">
 
-   <span class="pn">[6]</span>**Shaoshuai Chu**<sup>*</sup> and Michael Herty  
+   <span class="pn">[5]</span>**Shaoshuai Chu**<sup>*</sup> and Michael Herty  
    [Numerical Realization of an Entropy-Based Selection Principle in the Example of Kelvin-Helmholtz Instability](./files/Chu_Herty_KH.pdf) <!--  to SIAM Journal on Scientific Computing.---> 
 
-   <span class="pn">[5]</span>**Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
+   <span class="pn">[4]</span>**Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
    [Entropy-Based Local Characteristic Decomposition](./files/Chu_Herty_Kurganov_LCD.pdf) <!--  to Journal of Scientific Computing.---> 
 
-   <span class="pn">[4]</span>**Shaoshuai Chu**, Pingyao Feng, Vadim A. Kolotilov, Alexander Kurganov<sup>*</sup> and Vladimir V. Ostapenko  
-   [Novel Adaptive Methods for Hyperbolic Conservation Laws Based on New Quasi-Linear Seventh- and Ninth-Order Schemes](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko-New.pdf) <!--  to Communications in Computational Physics.---> 
 
    <span class="pn">[3]</span>**Shaoshuai Chu**, Igor Kliakhandler and Alexander Kurganov<sup>*</sup>  
    [Adaptive Artificial Anti-Diffusion Methods for Hyperbolic Systems of Conservation Laws](./files/Chu_Kliakhandler_Kurganov_New.pdf) <!--  to Journal of Computational Physics.---> 
@@ -100,33 +98,37 @@ I am a postdoctoral researcher in the Department of Mathematics at RWTH Aachen U
 
 <div class="pubs" markdown="1">
 
-   <span class="pn">[30]</span>**Shaoshuai Chu**, Michael Herty, Alexander Kurganov, Mária Lukáčová-Medviďová<sup>*</sup> and Changsheng Yu  
+   <span class="pn">[31]</span>**Shaoshuai Chu**, Michael Herty, Alexander Kurganov, Mária Lukáčová-Medviďová<sup>*</sup> and Changsheng Yu  
    [Numerical Study of Dissipative Weak Solutions for the Euler Equations of Gas Dynamics](./files/Chu_Herty_Kurganov_Lukacova_Yu.pdf)  
    To appear in Pure and Applied Functional Analysis (special issue for Prof. Eitan Tadmor's 70th birthday).
 
-   <span class="pn">[29]</span>**Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
+   <span class="pn">[30]</span>**Shaoshuai Chu**, Michael Herty and Alexander Kurganov<sup>*</sup>  
    [New Scheme Adaption Strategy for Hyperbolic Conservation Laws](./files/Chu-Herty-Kurganov-Adaptive.pdf)  
    To appear in Spectral and High-Order Methods for Partial Differential Equations ICOSAHOM 2025.
 
-   <span class="pn">[28]</span>**Shaoshuai Chu**<sup>*</sup> and Michael Herty  
+   <span class="pn">[29]</span>**Shaoshuai Chu**<sup>*</sup> and Michael Herty  
    [High-Order Schemes for Hyperbolic Conservation Laws Using Young Measures](./files/Chu_Herty_YM.pdf)  
    Journal of Computational Physics, 568 (2027), Paper No. 115375, 22 pp.
 
-   <span class="pn">[27]</span>Markus Bambach, **Shaoshuai Chu**<sup>*</sup>, Michael Herty and Yunong Lin  
+   <span class="pn">[28]</span>Markus Bambach, **Shaoshuai Chu**<sup>*</sup>, Michael Herty and Yunong Lin  
    [A Bayesian Approach to Feedback Control for Hyperbolic Balance Laws](./files/Bambach_Chu_Herty_Lin_Stability.pdf)  
    International Journal of Control, 99 (2026), pp. 3163-3182.
 
-   <span class="pn">[26]</span>**Shaoshuai Chu**<sup>*</sup> and Michael Herty  
+   <span class="pn">[27]</span>**Shaoshuai Chu**<sup>*</sup> and Michael Herty  
    [A Comparative Study of Low-Dissipation Numerical Schemes for Hyperbolic Conservation Laws](./files/Chu_Herty_LD.pdf)  
    Numerical Methods for Partial Differential Equations, 42 (2026), Paper No. e70140, 41 pp.
 
-   <span class="pn">[25]</span>**Shaoshuai Chu**, Michael Herty<sup>*</sup>, Mária Lukáčová-Medviďová and Yizhou Zhou  
+   <span class="pn">[26]</span>**Shaoshuai Chu**, Michael Herty<sup>*</sup>, Mária Lukáčová-Medviďová and Yizhou Zhou  
    [Solving Random Hyperbolic Conservation Laws Using Linear Programming](./files/Chu_Herty_Lukacova_Zhu.pdf)  
    SIAM Journal on Scientific Computing, 48 (2026), pp. A1184-A1205. 
 
-   <span class="pn">[24]</span>**Shaoshuai Chu**<sup>*</sup>, Michael Herty and Alexander Kurganov  
+   <span class="pn">[25]</span>**Shaoshuai Chu**<sup>*</sup>, Michael Herty and Alexander Kurganov  
    [Numerical Analysis of Stabilisation for Random Hyperbolic Systems of Conservation Laws](./files/Chu-Herty-Kurganov.pdf)  
    International Journal of Control,  99 (2026), pp. 1545–1560. 
+
+   <span class="pn">[24]</span>**Shaoshuai Chu**, Pingyao Feng, Vadim A. Kolotilov, Alexander Kurganov<sup>*</sup> and Vladimir V. Ostapenko  
+   [Novel Adaptive Methods for Hyperbolic Conservation Laws Based on New Quasi-Linear Seventh- and Ninth-Order Schemes](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko-New.pdf)  
+   To  appear in Computational Methods in Applied Mathematics.
 
    <span class="pn">[23]</span>**Shaoshuai Chu**, Pingyao Feng, Vadim A. Kolotilov, Alexander Kurganov<sup>*</sup> and Vladimir V. Ostapenko  
    [Novel Adaptive Schemes for Hyperbolic Conservation Laws](./files/Chu-Feng-Kolotilov-Kurganov-Ostapenko.pdf)  
