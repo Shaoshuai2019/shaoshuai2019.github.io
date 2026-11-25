@@ -73,7 +73,8 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
+  goatcounter            :  "shaoshuaichu" # your GoatCounter code, e.g. "shaoshuaichu" for https://shaoshuaichu.goatcounter.com
   google:
     tracking_id          :
 
